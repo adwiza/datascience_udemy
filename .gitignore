@@ -3,3 +3,4 @@ SampleCsv.csv
 SampleExcel.xls
 *.html
 data/
+.DS_Store
